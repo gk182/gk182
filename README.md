@@ -2,7 +2,7 @@
 <h3 align="center">A backend developer and future DevOps engineer from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phamkhai182&label=Profile%20views&color=0e75b6&style=flat" alt="phamkhai182" />
+  <img src="https://komarev.com/ghpvc/?username=gk182&label=Profile%20views&color=0e75b6&style=flat" alt="gk182" />
 </p>
 
 ---
@@ -61,5 +61,5 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phamkhai182&show_icons=true&locale=en" alt="phamkhai182 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gk182&show_icons=true&locale=en" alt="gk182 stats" />
 </p>
