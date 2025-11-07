@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pham Khai</h1>
-<h3 align="center">A backend developer and future DevOps engineer from Vietnam 🇻🇳</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gk182&label=Profile%20views&color=0e75b6&style=flat" alt="gk182" />
-</p>
+<h3 align="center">A backend developer from Vietnam 🇻🇳</h3>
 
 ---
 
