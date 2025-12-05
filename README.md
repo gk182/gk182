@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pham Khai</h1>
-<h3 align="center">A backend developer from Vietnam 🇻🇳</h3>
+<h3 align="center">A mobile developer from Vietnam 🇻🇳</h3>
 
 ---
 
 🎓 I'm a final-year student at **University of Danang - University of Education**, majoring in Information Technology.  
-💻 I focus on **backend development** using **C#**, **Mobile Dev** using **Flutter** and I'm currently learning about **cloud computing** and **DevOps practices**.  
+💻 I focus on **Mobile Dev** using **Flutter**, **backend development** using **C#** and I'm currently learning about **cloud computing** and **DevOps practices**.  
 🚀 My career goal is to become a **DevOps engineer**, building scalable, automated, and reliable systems.  
 💡 I love solving real-world problems and working with infrastructure and automation tools.
 
