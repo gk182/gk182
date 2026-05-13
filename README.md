@@ -90,5 +90,5 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gk182&show_icons=true&locale=en" alt="gk182 stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gk182&show_icons=true&theme=tokyonight" />
 </p>
