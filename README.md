@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pham Gia Khai 👋</h1>
 
 <p align="center">
-  <strong>Flutter Mobile Developer</strong> · Building production-ready mobile apps from Vietnam 🇻🇳
+  <strong>Flutter Mobile Developer</strong> · Production apps, product integrations, and release operations
 </p>
 
 <p align="center">
@@ -15,15 +15,14 @@
 
 ## About me
 
-I'm a Flutter Mobile Developer with hands-on experience building, shipping, and maintaining mobile products.
+I build and ship cross-platform mobile applications with Flutter.
 
-- 📱 Built and maintained **GardenVibe**, a Flutter app published on the **App Store and Google Play**.
-- 🚀 Supported Google Play release workflows for **4+ mobile apps** — AAB builds, app signing, internal testing, Play Console submission, and post-release troubleshooting.
-- 🔌 Worked with production integrations including **Firebase, FCM, Adapty subscriptions, Airbridge deep links, Google Sign-In, and Apple Sign-In**.
-- 🤖 Contributed to **LikeFlow**, an AI-powered platform that turns e-commerce product data into ready-to-post marketing videos.
+- 📱 Experience maintaining production mobile products on the App Store and Google Play.
+- 🚀 Supported Google Play releases for 4+ apps: AAB builds, app signing, internal testing, store submission, and post-release troubleshooting.
+- 🔌 Experienced with Firebase, push notifications, subscriptions, deep links, REST APIs, and Google/Apple Sign-In.
 - 🧩 Interested in mobile engineering, product systems, release operations, and automation.
 
-## Core stack
+## Tech stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
@@ -37,34 +36,8 @@ I'm a Flutter Mobile Developer with hands-on experience building, shipping, and 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git" />
 </p>
 
-## What I work with
+## Currently focused on
 
-| Area | Technologies |
-|---|---|
-| Mobile | Flutter, Dart, GetX, REST APIs |
-| Firebase | Authentication, Firestore, Storage, Cloud Messaging |
-| Product integrations | Adapty, Airbridge, Google Sign-In, Apple Sign-In |
-| Release operations | Google Play Console, AAB, app signing, internal testing, release tracks |
-| Backend | ASP.NET Core, Entity Framework Core, SignalR, Node.js, MongoDB, SQL Server |
-| Tools | Git/GitHub, Postman, Docker, Figma |
-
-## Featured work
-
-### GardenVibe — Garden Companion
-
-Flutter mobile app featuring AI plant diagnosis, weather data, community features, authentication, notifications, subscriptions, and deep-link tracking.
-
-- [App Store](https://apps.apple.com/us/app/gardenvibe-garden-companion/id6761244910)
-- Google Play link: add your official store URL here
-
-### LikeFlow — Product to Video
-
-AI-powered platform that turns e-commerce product data into ready-to-post marketing videos for creators and affiliates.
-
-- [Visit LikeFlow](https://likeflow.ai)
-
----
-
-<p align="center">
-  <i>Open to Flutter Mobile Developer, Technical Support Engineer, and product-focused engineering opportunities.</i>
-</p>
+- Flutter architecture and maintainable mobile code
+- Production releases and mobile quality
+- Backend integrations and automation workflows
